@@ -18,9 +18,6 @@ These challenges are designed to help you build a solid foundation in Python pro
 Feel free to contribute to this repository by adding more challenges or improving the existing ones. 
 If you have a better solution for a particular challenge, don't hesitate to share it with the community.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 Best Of Luck 
 
